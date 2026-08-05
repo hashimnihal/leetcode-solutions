@@ -4,7 +4,7 @@ class Solution:
         max=0
         for i in prices:
             if i<min:
-                min=i
+                min = i
             profit=i-min
             if profit>max:
                 max=profit
