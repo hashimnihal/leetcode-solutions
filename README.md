@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hashimnihal/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/hashimnihal/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hashimnihal/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/hashimnihal/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/hashimnihal/leetcode-solutions/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hashimnihal/leetcode-solutions/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/hashimnihal/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
