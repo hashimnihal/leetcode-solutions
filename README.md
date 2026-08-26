@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hashimnihal/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hashimnihal/leetcode-solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/hashimnihal/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/hashimnihal/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/hashimnihal/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/hashimnihal/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hashimnihal/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hashimnihal/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/hashimnihal/leetcode-solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/hashimnihal/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
